@@ -1,3 +1,7 @@
+Goal
+==============
+Forked this off of TuringMachine's site. I was modifying his code when I realized that it had many bugs (not to blame him, I would never have been able to build this from the ground up). Rather than bullet riddling his repo with issues I decided to fork it and continue my work here. The ultimated goal is to port this over to C, and then from there build it into omxplayer. Unfortunately, this program has so many bugs that it makes more sense to fix those in Python first, then move over to C.
+
 OMXPlayer-Sync
 ==============
 
